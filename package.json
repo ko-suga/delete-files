@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "Delete files matching patterns",
   "activationCommands": {
-    "atom-workspace": "delete-files:deleteMatchingPatterns"
+    "atom-workspace": "Delete Files:Matching Patterns"
   },
   "keywords": [
     "delete",

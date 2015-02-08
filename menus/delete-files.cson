@@ -7,7 +7,7 @@
       'submenu': [
         {
           'label': 'Matching Patterns'
-          'command': 'delete-files:deleteMatchingPatterns'
+          'command': 'Delete Files:Matching Patterns'
         }
       ]
     ]
