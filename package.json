@@ -1,0 +1,20 @@
+{
+  "name": "Delete Files",
+  "main": "./lib/delete-files",
+  "version": "0.1.0",
+  "description": "Delete files matching patterns",
+  "activationCommands": {
+    "atom-workspace": "delete-files:deleteMatchingPatterns"
+  },
+  "keywords": [
+    "delete",
+    "file"
+  ],
+  "repository": "https://github.com/ko-suga/delete-files",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
